@@ -1,0 +1,41 @@
+* {
+    background-color: lemonchiffon;
+}
+
+h1{
+    font-size: 28px;
+    background-color: #ecb6a3;
+    color: rgb(0, 26, 255);
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    text-align: center;
+}
+
+.food{
+    font-size: 20px;
+    color: crimson;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+
+h2{
+    font-size: 22px;   
+    color: mediumblue;
+    font-family: garamond, serif;
+    text-decoration: underline;
+}
+
+.ingredients {
+    font-style: italic;
+    color: darkgreen;S
+}
+
+.directions {
+    font-family: cursive;
+    color:hsl(280, 71%, 30%)
+}
+
+img.foodpic {
+    width: 400px;
+    height: auto;
+}
